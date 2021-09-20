@@ -4,7 +4,9 @@ I'm offering reviews for free and open source projects.
 
 The reviews will focus on API design and general architection of your project which a view to making them a) more maintainable b) future proof and c) user friendly, but will avoid anything that a linter could do for you. Reviews are intended to be constructive and hopefully give advice you can act on, but are in no way a "grade".
 
-Bear in mind that reviews will be **public** and will be published in the repo in a markdown file. An exception would be for any security issues, where I would notify you first.
+I won't need to run your code to do a review and reviews aren't intended to fix bugs.
+
+All reviews will be **public** and will be published in the repo in a markdown file. An exception would be for any security issues, where I would notify you first.
 
 ## What projects can request a review?
 
@@ -19,3 +21,7 @@ I would expect small to medium sized projects with a single or small number of c
 ## Requesting a review
 
 To request a review, open an Issue in this repos.
+
+## How log will a review take?
+
+It depends on the backlong, but I'm hoping most reviews can be done in a week or two.
