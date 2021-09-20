@@ -20,8 +20,8 @@ I would expect small to medium sized projects with a single or small number of c
 
 ## Requesting a review
 
-To request a review, open an Issue in this repos.
+To request a review, open an Issue in this repository.
 
 ## How log will a review take?
 
-It depends on the backlong, but I'm hoping most reviews can be done in a week or two.
+It depends on the backlog, but I'm hoping most reviews can be done in a week or two.
