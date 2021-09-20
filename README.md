@@ -2,7 +2,7 @@
 
 I'm offering reviews for free and open source projects.
 
-The reviews will focus on API design and general architection of your project which a view to making them a) more maintainable b) future proof and c) user friendly, but will avoid anything that a linter could do for you. Reviews are intended to be constructive and hopefully give advice you can act on, but are in no way a "grade".
+The reviews will focus on API design and general architection of your project with a view to making them a) more maintainable b) future proof and c) user friendly, but will avoid anything that a linter could do for you. Reviews are intended to be constructive and hopefully give advice you can act on, but are in no way a "grade".
 
 I won't need to run your code to do a review and reviews aren't intended to fix bugs.
 
@@ -10,7 +10,7 @@ All reviews will be **public** and will be published in the repo in a markdown f
 
 ## What projects can request a review?
 
-Any Python project that is free and open source may request a review, but it must not be commercially backed i.e. full-time paid developers. Commerical sponsorship via GitHub sponsors or other is fine.
+Any Python project that is free and open source may request a review, but it must not be commercially backed i.e. full-time paid developers. Commercial sponsorship via GitHub sponsors or other is fine.
 
 There's no size limit for a code review, but for free code reviews I can't realistically review very large projects. If you project is large, you might want to ask me to focus on a given area. What is *large* in this context, is not yet well defined. 
 
@@ -22,6 +22,6 @@ I would expect small to medium sized projects with a single or small number of c
 
 To request a review, open an Issue in this repository.
 
-## How log will a review take?
+## How long will a review take?
 
 It depends on the backlog, but I'm hoping most reviews can be done in a week or two.
