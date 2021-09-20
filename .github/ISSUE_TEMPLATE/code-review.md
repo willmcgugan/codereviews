@@ -19,7 +19,7 @@ assignees: ''
 **Are there any areas you would like me to focus on?**
 
 
-**Is this your first review?**
+**Have I reviewed this project previously?**
 
 
 - [ ] I agree for the code review to be public
