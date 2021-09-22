@@ -7,7 +7,7 @@ Review date: "2021-09-22"
 Issue: https://github.com/willmcgugan/codereviews/issues/2
 ---
 
-# BraillyPy
+# BraillyPy
 
 The project could use more detail in the README. Consider a summary of what the package does, plus a few examples of usage.
 
@@ -19,7 +19,7 @@ I'm assuming this library is for translating characters between visual and brail
 
 The main code in braille.py uses TABS. The standard for Python is 4 spaces per-indent level. Most Python editors will do this for you automatically.
 
-I'd also recommend adopting Black as an auto-formatter. If you run `black braille.py` it may be able to replaces your tabbed indents with spaces.
+I'd also recommend adopting Black as an auto-formatter. If you run `black braille.py` it may be able to replace your tabbed indents with spaces.
 
 ## Code
 
