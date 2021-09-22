@@ -16,7 +16,7 @@ There's no size limit for a code review, but for free code reviews I can't reali
 
 ## Who can benefit from a review
 
-I would expect small to medium sized projects with a single or small number of contributors would gain the most benefit from a review. Especially, if the project is in a stage where it is able to make potential architectural changes. Larger, more mature, projects with many contributors may not be in a position to affect the changes I reccomend!
+I would expect small to medium sized projects with a single or small number of contributors would gain the most benefit from a review. Especially, if the project is in a stage where it is able to make potential architectural changes. Larger, more mature, projects with many contributors may not be in a position to affect the changes I recommend!
 
 ## Requesting a review
 
