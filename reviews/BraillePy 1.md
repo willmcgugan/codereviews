@@ -49,10 +49,12 @@ Try to avoid single letter variable names, for instance `x` and `i`
 
 ### Observation 5.
 
-Some of the (private) functions are in ALL_CAPS. App caps names should be reserved for constants, so you could lower case these.
+Some of the (private) functions are in ALL_CAPS. All caps names should be reserved for constants, so you could lower case these.
 
 ## API Design
 
-I'm wondering if you _need_ the braille class? I'm guessing that users will only require the methods which convert from one thing to another.
+I'm wondering if you _need_ the Braille class? I'm guessing that users will only require the methods which convert from one thing to another.
+
+Here's a video on why you may not need a class: https://www.youtube.com/watch?v=o9pEzgHorH0&ab_channel=NextDayVideo
 
 The naming could be improved for those methods. Abbreviations may be easier to type, but are generally harder to remember. I'd suggest `braille_to_string` over `b2s`, etc.
