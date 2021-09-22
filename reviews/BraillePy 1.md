@@ -7,7 +7,7 @@ Review date: "2021-09-22"
 Issue: https://github.com/willmcgugan/codereviews/issues/2
 ---
 
-# BraillyPy
+# BraillPy - First Review
 
 The project could use more detail in the README. Consider a summary of what the package does, plus a few examples of usage.
 
