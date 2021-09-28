@@ -1,0 +1,47 @@
+name: Code review
+description: "Request a new code review"
+body:
+  - type: input
+    id: project-name
+    attributes:
+      label: What is the name of your project?
+      placeholder: "ex. textual"
+    validations:
+      required: true
+  - type: input
+    id: project-url
+    attributes:
+      label: What is the url of your project?
+      placeholder: "ex. https://github.com/willmcgugan/textual"
+    validations:
+      required: true
+  - type: textarea
+    id: should-know
+    attributes:
+      label: Is there anything else I should know about the code?
+    validations:
+      required: false
+  - type: textarea
+    id: focus
+    attributes:
+      label: Are there any areas you would like me to focus on?
+    validations:
+      required: false
+  - type: dropdown
+    id: reviewed
+    attributes:
+      label: Have I reviewed this project previously?
+      multiple: false
+      options:
+        - "No"
+        - "Yes"
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms
+      description: By submitting this issue, you agree for the code review to be public
+      options:
+        - label: I agree for the code review to be public
+          required: true
